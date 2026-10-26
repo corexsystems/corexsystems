@@ -1,0 +1,14 @@
+# Local authoritative project instructions are NEVER published
+/.agent/
+
+# Local temporary/editor files
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+__pycache__/
+*.pyc
+
+# Local export packages
+*.zip
